@@ -2,8 +2,7 @@ package configuration;
 
 import appiumLocalServiceManager.AppiumLocalServiceManager;
 import driverManager.AndroidDriverFactory;
-import io.cucumber.java.After;
-import io.cucumber.java.Before;
+import io.cucumber.java.*;
 
 public class Hooks {
 
@@ -17,5 +16,15 @@ public class Hooks {
     public void afterTestExecution() {
         AndroidDriverFactory.quitAndroidDriver();
         AppiumLocalServiceManager.stopAppiumService();
+    }
+
+    @BeforeStep
+    public void beforeStepExecution(Scenario scenario) {
+        ScreenshotCapture.screenShotCaptureAndAttachScenario(scenario);
+    }
+
+    @AfterStep
+    public void afterStepExecution(Scenario scenario) {
+        ScreenshotCapture.screenShotCaptureAndAttachScenario(scenario);
     }
 }

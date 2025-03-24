@@ -1,17 +1,17 @@
-package appActions;
+package appActions.loginActions;
 
 import appObjects.login.LoginAppObjects;
-import driverManager.AndroidDriverFactory;
+import driverManager.BaseConfig;
 import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-public class LoginActions extends AndroidDriverFactory {
+public class LoginActions extends BaseConfig {
     private final LoginAppObjects loginAppObjects;
 
     public LoginActions() {
-        this.loginAppObjects = new LoginAppObjects(androidDriver);
+        this.loginAppObjects = new LoginAppObjects(appiumDriver);
     }
 
     public void fillUserName(String username) {
@@ -31,13 +31,18 @@ public class LoginActions extends AndroidDriverFactory {
         Assertions.assertTrue(this.loginAppObjects.getLoginContent().isDisplayed());
     }
 
-    public void loginAlertMessageCheck(String message){
+    public void loginAlertMessageCheck(String message) {
         WebElement webElement = this.loginAppObjects.getErrorMessage().findElement(By.xpath("//android.widget.TextView"));
         String alertMessage = webElement.getText();
 
         webDriverWait.until(ExpectedConditions.visibilityOf(webElement));
         Assertions.assertTrue(webElement.isDisplayed());
         Assertions.assertEquals(alertMessage, message);
+    }
+
+    public void loginWithoutFillingPassword() {
+        String randomUsername = "user" + (int) (Math.random() * 1000);
+        this.loginAppObjects.getUsernameTextField().sendKeys(randomUsername);
     }
 
 }

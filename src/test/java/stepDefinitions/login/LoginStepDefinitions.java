@@ -1,6 +1,6 @@
 package stepDefinitions.login;
 
-import appActions.LoginActions;
+import appActions.loginActions.LoginActions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -37,17 +37,21 @@ public class LoginStepDefinitions {
 
     @When("they enter a username but leave the password blank")
     public void theyEnterAUsernameButLeaveThePasswordBlank() {
-        System.out.println("Passou aqui amado kkk");
+        this.loginActions.loginWithoutFillingPassword();
     }
 
     @When("they enter an incorrect username or password")
     public void theyEnterAnIncorrectUsernameOrPassword() {
-        System.out.println("Passou aqui amado kkk");
+        String username = "user" + (int) (Math.random() * 1000);
+        String password = "password" + (int) (Math.random() * 1000);
+        this.loginActions.fillUserName(username);
+        this.loginActions.fillPassword(password);
     }
 
     @When("they attempt to log in with a locked-out account")
     public void theyAttemptToLogInWithALockedOutAccount() {
-        System.out.println("Passou aqui amado kkk");
+        this.loginActions.fillUserName("locked_out_user");
+        this.loginActions.fillPassword("secret_sauce");
     }
 
     @Then("they should see {string}")
