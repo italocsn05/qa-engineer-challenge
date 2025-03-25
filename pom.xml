@@ -56,7 +56,6 @@
             <version>2.0.17</version>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.codehaus.mojo/exec-maven-plugin -->
     </dependencies>
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
