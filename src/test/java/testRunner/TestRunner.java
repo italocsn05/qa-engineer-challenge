@@ -13,5 +13,5 @@ import org.junit.runner.RunWith;
         glue = {"stepDefinitions", "configuration"}
 )
 
-public abstract class TestRunner {
+public class TestRunner {
 }
