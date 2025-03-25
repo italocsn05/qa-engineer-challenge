@@ -1,0 +1,315 @@
+19:47:46.606 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.30.0
+19:47:46.607 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+19:47:46.684 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:47:46.685 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:47:46.920 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c4e61f645783d2ed979d164691d34418b8113236]
+19:47:46.920 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit5
+19:47:46.921 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: f0d39eee-2de4-4725-b782-85e2a26d8ef5
+19:47:46.921 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:47:51.874 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:47:56.145 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: rl0h9xcpbuhofu9d8kjcrdaa9z1jsuh1qy0fkdii
+19:47:56.145 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:47:56.571 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:47:56.572 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:47:56.578 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:47:56.578 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:47:56.580 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:47:56.580 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:47:56.707 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 808d94a5-cd44-43d2-91c1-c88af9b74469
+19:47:56.707 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:47:56.708 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 47f071b3-925f-42cb-b163-0d90cdc55428
+19:47:56.708 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:47:56.714 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 8b7cb25a-a9dd-405b-aa20-6ab001140ad0
+19:47:56.714 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:48:00.489 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:48:00.496 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:48:00.503 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:48:26.116 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rl0h9xcpbuhofu9d8kjcrdaa9z1jsuh1qy0fkdii to view build report, insights, and many more debugging information all at one place!
+
+19:48:26.117 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:48:29.097 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/0a579220577aa44c8b33e5a0a637e2c27655dafe
+19:48:29.098 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:48:29.109 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: f0d39eee-2de4-4725-b782-85e2a26d8ef5, testhub id: rl0h9xcpbuhofu9d8kjcrdaa9z1jsuh1qy0fkdii
+19:48:29.109 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:50:38.294 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.30.0
+19:50:38.294 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+19:50:38.374 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:50:38.375 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:50:38.611 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c4e61f645783d2ed979d164691d34418b8113236]
+19:50:38.611 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit5
+19:50:38.612 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: c507d345-8232-4b3a-bf1b-e3301efcd75b
+19:50:38.612 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:50:43.488 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:50:44.377 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: q2m2grhiig5d8hncfediu88375xydzsknbjjhzlj
+19:50:44.377 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:50:44.802 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:50:44.802 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:50:44.810 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:50:44.811 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:50:44.819 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:50:44.820 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:50:44.945 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 22bc0852-096b-4f32-ae27-e4db18e1ddc7
+19:50:44.945 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:50:44.956 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 6c16a62f-2dd6-4349-ba4b-767e362fd7d6
+19:50:44.956 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:50:44.967 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 3bbf8099-9977-45c2-8dd3-7b1c42639962
+19:50:44.967 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:50:48.434 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:50:48.442 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:50:48.448 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:50:49.813 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/q2m2grhiig5d8hncfediu88375xydzsknbjjhzlj to view build report, insights, and many more debugging information all at one place!
+
+19:50:49.813 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:50:52.354 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: c507d345-8232-4b3a-bf1b-e3301efcd75b, testhub id: q2m2grhiig5d8hncfediu88375xydzsknbjjhzlj
+19:50:52.354 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:57:41.095 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.30.0
+19:57:41.096 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+19:57:41.176 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:57:41.176 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:57:41.414 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c4e61f645783d2ed979d164691d34418b8113236]
+19:57:41.414 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit5
+19:57:41.415 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 42eea3ea-6797-40bb-b81c-6333c8caa26e
+19:57:41.415 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:57:46.051 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:57:47.014 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: b2ajkow9w7qahwu7qs4rclwixkgb5iqk189ocd79
+19:57:47.015 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:57:47.437 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:57:47.437 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:57:47.440 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:57:47.440 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:57:47.443 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:57:47.443 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+19:57:47.581 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 434bc5de-41b8-4e9d-a1f1-323a9b85958b
+19:57:47.581 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:57:47.582 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 4d456ff9-1841-42fa-a529-350bd58f60e4
+19:57:47.582 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:57:47.582 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 13b21bd7-9926-44a4-a718-2d78b146f1e3
+19:57:47.582 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:57:51.203 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:57:51.214 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:57:51.220 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:57:52.508 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/b2ajkow9w7qahwu7qs4rclwixkgb5iqk189ocd79 to view build report, insights, and many more debugging information all at one place!
+
+19:57:52.509 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:57:55.330 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 42eea3ea-6797-40bb-b81c-6333c8caa26e, testhub id: b2ajkow9w7qahwu7qs4rclwixkgb5iqk189ocd79
+19:57:55.330 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:23:20.273 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.30.0
+20:23:20.274 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+20:23:20.352 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:23:20.353 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:23:20.378 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:23:20.588 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+20:23:20.588 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+20:23:20.589 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: a5c46487-c539-40ec-998e-215ecc31c6db
+20:23:20.589 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:23:25.611 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:23:26.560 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: eekamv13h3azdkdlxbmbmxrjl81lfa2gjwciwfng
+20:23:26.560 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:23:26.969 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:23:26.969 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:23:26.970 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:23:26.970 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:23:26.974 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:23:26.974 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:23:26.999 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:23:26.999 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:23:27.003 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:23:27.104 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 8439495a-d216-4be5-a4c8-57d54d5b34c7
+20:23:27.104 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:23:27.105 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: dcfa23be-52a9-4ebf-b2c1-9796ccf04498
+20:23:27.105 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:23:27.108 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 12a05bb0-0ca3-47b2-8284-2a3ce970d037
+20:23:27.108 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:23:30.801 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:23:30.805 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:23:30.812 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:24:00.787 [SIGINT handler] INFO  c.b.utils.ExitSignalHandler - Shutdown triggered by: INT 2
+20:24:00.952 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/eekamv13h3azdkdlxbmbmxrjl81lfa2gjwciwfng to view build report, insights, and many more debugging information all at one place!
+
+20:24:00.952 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:40:13.311 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.30.0
+20:40:13.312 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+20:40:13.411 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:40:13.411 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:40:13.441 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:40:13.677 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c4e61f645783d2ed979d164691d34418b8113236]
+20:40:13.677 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+20:40:13.678 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: cdc83bbd-1254-40e0-8d93-d027c974b6f2
+20:40:13.678 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:40:18.577 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:40:19.654 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: jfpgeghnwdtb8jnvelmcje1vaoygdglyuhbl3qil
+20:40:19.654 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:40:20.091 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:40:20.091 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:40:20.093 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:40:20.094 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:40:20.096 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:40:20.096 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:40:20.118 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:40:20.122 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:40:20.126 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:40:20.226 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 32040380-d6d7-4e73-bc17-3b1d5eba03a0
+20:40:20.226 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:40:20.226 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 23b0292b-9e13-4581-8cbb-a7412d428458
+20:40:20.227 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:40:20.231 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: a0c7b6d6-bc05-48a6-9aa0-943f72acd6a6
+20:40:20.231 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:40:23.849 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:40:23.850 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:40:23.857 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:40:50.907 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jfpgeghnwdtb8jnvelmcje1vaoygdglyuhbl3qil to view build report, insights, and many more debugging information all at one place!
+
+20:40:50.907 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:40:53.887 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/001d88a8bcfc7a035b0f5d487241e575155e2647
+20:40:53.887 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:40:53.896 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: cdc83bbd-1254-40e0-8d93-d027c974b6f2, testhub id: jfpgeghnwdtb8jnvelmcje1vaoygdglyuhbl3qil
+20:40:53.896 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:41:35.132 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.30.0
+20:41:35.132 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+20:41:35.212 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:41:35.213 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:41:35.242 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:41:35.461 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c4e61f645783d2ed979d164691d34418b8113236]
+20:41:35.461 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+20:41:35.462 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: a033fa19-0a86-4286-aff2-d0d5784adcb8
+20:41:35.462 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:41:40.487 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:41:41.243 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: xyswfszorau4cltygbqhrb6mlwvioxeze3nxep1h
+20:41:41.243 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:41:41.663 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:41:41.663 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:41:41.666 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:41:41.667 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:41:41.667 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:41:41.667 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:41:41.693 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:41:41.694 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:41:41.695 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:41:41.802 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 30593e39-19a8-48b3-a43d-df71981a87b1
+20:41:41.802 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:41:41.803 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 07284c09-0128-49ce-9e7c-14a3fd17f19f
+20:41:41.803 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:41:41.803 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: c736ff55-8ccb-4293-9f1c-fb6a66f760f0
+20:41:41.803 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:41:45.356 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:41:45.362 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:41:45.378 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:42:18.158 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xyswfszorau4cltygbqhrb6mlwvioxeze3nxep1h to view build report, insights, and many more debugging information all at one place!
+
+20:42:18.158 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:42:20.724 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/6ae21f1705ae603461ec0f0aedb931842f6fb8c7
+20:42:20.724 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:42:20.743 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: a033fa19-0a86-4286-aff2-d0d5784adcb8, testhub id: xyswfszorau4cltygbqhrb6mlwvioxeze3nxep1h
+20:42:20.744 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:43:15.484 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.30.0
+20:43:15.485 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+20:43:15.567 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:43:15.568 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:43:15.598 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:43:15.810 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c4e61f645783d2ed979d164691d34418b8113236]
+20:43:15.810 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+20:43:15.811 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: c4cf464a-6721-41c7-8634-0441571c57de
+20:43:15.811 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:43:20.410 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:43:21.135 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: k4whwqlcrskbjdx6v9dvxydmwkmkcowasqdcm0sd
+20:43:21.135 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:43:21.567 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:43:21.568 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:43:21.568 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:43:21.569 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:43:21.574 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:43:21.575 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:43:21.599 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:43:21.600 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:43:21.606 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:43:21.712 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 087c04e0-3d74-45d5-a83b-052e5c1d8b90
+20:43:21.713 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:43:21.718 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 7c9a6bc7-5c91-417e-94cb-252648511ead
+20:43:21.718 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:43:21.742 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 85b5e024-8d9c-41ac-b430-68f1f3cddbc1
+20:43:21.742 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:43:25.314 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:43:25.332 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:43:25.338 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:43:50.145 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/k4whwqlcrskbjdx6v9dvxydmwkmkcowasqdcm0sd to view build report, insights, and many more debugging information all at one place!
+
+20:43:50.146 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:43:52.811 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/df77b70cf07644c44d6fa47a79f728932520d4a8
+20:43:52.811 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:43:52.838 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: c4cf464a-6721-41c7-8634-0441571c57de, testhub id: k4whwqlcrskbjdx6v9dvxydmwkmkcowasqdcm0sd
+20:43:52.838 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:48:47.453 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.30.0
+20:48:47.454 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+20:48:47.558 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:48:47.558 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:48:47.593 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:48:47.849 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c4e61f645783d2ed979d164691d34418b8113236]
+20:48:47.849 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+20:48:47.850 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 236ba4df-3ce5-4f84-94ab-726636729ac8
+20:48:47.850 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:48:52.434 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:48:53.346 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 42b6idmofjhdbxe7okq4yulk1yksevuppkir1cra
+20:48:53.347 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:48:53.751 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:48:53.752 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:48:53.755 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:48:53.755 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:48:53.759 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:48:53.759 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:48:53.782 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:48:53.786 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:48:53.788 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:48:53.894 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: b203799d-56ed-4b52-a139-3487429cf59a
+20:48:53.895 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:48:53.896 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 3663ed04-c58b-4760-a3a5-887d9f92f486
+20:48:53.896 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:48:53.898 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: c4401c14-5009-4e26-88fd-b656bdda8fae
+20:48:53.899 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:48:57.517 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:48:57.527 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:48:57.529 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:49:10.441 [SIGINT handler] INFO  c.b.utils.ExitSignalHandler - Shutdown triggered by: INT 2
+20:49:10.605 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/42b6idmofjhdbxe7okq4yulk1yksevuppkir1cra to view build report, insights, and many more debugging information all at one place!
+
+20:49:10.605 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:49:13.200 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/7386397988a7a8f4973dccd2edb045f3d841d70a
+20:49:13.201 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:49:13.214 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 236ba4df-3ce5-4f84-94ab-726636729ac8, testhub id: 42b6idmofjhdbxe7okq4yulk1yksevuppkir1cra
+20:49:13.214 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:49:52.085 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.30.0
+20:49:52.085 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+20:49:52.163 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:49:52.163 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:49:52.188 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:49:52.400 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c4e61f645783d2ed979d164691d34418b8113236]
+20:49:52.400 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+20:49:52.400 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: b28c5310-2976-4292-b153-b24eb8623502
+20:49:52.401 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:49:56.198 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:49:56.933 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: rey1naluhpw9kiylgl1sui83kxhkjjgbity6exk3
+20:49:56.933 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:49:57.353 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:49:57.353 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:49:57.354 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:49:57.354 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:49:57.357 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+20:49:57.357 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/italocabral/IdeaProjects/qa-engineer-challenge/browserstack.yml
+20:49:57.383 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:49:57.384 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:49:57.385 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+20:49:57.498 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 6608f03e-272d-405a-b476-0025927d64e7
+20:49:57.498 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:49:57.499 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: fb2f032b-2095-4356-af80-eb3405415e3f
+20:49:57.499 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:49:57.500 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 509e41e8-1fd4-48e3-ae8f-7167b89da874
+20:49:57.500 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:50:01.185 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:50:01.191 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:50:01.198 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:50:26.216 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rey1naluhpw9kiylgl1sui83kxhkjjgbity6exk3 to view build report, insights, and many more debugging information all at one place!
+
+20:50:26.216 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:50:28.601 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/20d6112b1a00c47316999d69c35e11df94a05d2a
+20:50:28.602 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:50:28.621 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: b28c5310-2976-4292-b153-b24eb8623502, testhub id: rey1naluhpw9kiylgl1sui83kxhkjjgbity6exk3
+20:50:28.621 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO

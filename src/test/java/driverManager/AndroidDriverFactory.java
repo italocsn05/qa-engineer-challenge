@@ -4,7 +4,6 @@ import appiumLocalServiceManager.AppiumLocalServiceManager;
 import capabilitiesManager.AndroidCapabilitiesBuilder;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
 import java.time.Duration;
 
 public abstract class AndroidDriverFactory extends BaseConfig {
@@ -19,4 +18,5 @@ public abstract class AndroidDriverFactory extends BaseConfig {
             appiumDriver.quit();
         }
     }
+
 }

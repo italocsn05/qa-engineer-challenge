@@ -11,6 +11,7 @@ Feature: Finish a purchase
     And submit the form
 
 
+  @BrowserStack
   Scenario Outline: Finish a purchase
 
     Given the user added a product to the cart
